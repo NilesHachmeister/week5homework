@@ -1,3 +1,4 @@
+
 // declaring the buttons that i would like to be able to use as well as where to put the current date
 let button = $(".btn");
 let currentDay = $("#currentDay")
