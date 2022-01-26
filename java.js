@@ -218,3 +218,7 @@ button.on("click", saveTask)
 
 // this calls what functions need to be ran on page load
 init();
+
+
+
+// I when I was pushing up my final version I discovered that my previous pushes had not been working. I tried to make some additional pushes to retell the story of how my program was created, but that is why not much content changed between commits.
